@@ -1,7 +1,7 @@
 
 # mic
 I use Skype, Linphone and Hangouts every day at work and I constantly forget to mute the damn mic whenever I'm on a call but not participating on it actively or just waiting for my turn to speak.
-I created this little block that hopefully will help me be aware whenever my mic is open so I can mute it and keep things professionally :)
+I created this little blocklet that hopefully will help me be aware whenever my mic is open so I can mute it and keep things professionally :)
 
 ## Screenshots
 
