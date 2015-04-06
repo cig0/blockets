@@ -1,0 +1,5 @@
+# Microphone indicator
+#
+[mic]
+color=#FFFFFF
+interval=30
