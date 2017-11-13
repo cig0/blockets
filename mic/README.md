@@ -99,4 +99,4 @@ exit 0;
 That's all for now, I hope **mic** will be useful for someone else.
 _Any ideas/critics on how to improve this circus is welcome (in fact I would love to know about them)_.
 
-_by [msx](https://github.com/msx)_
+_Created by [cig0](https://github.com/cig0)_
